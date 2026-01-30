@@ -1,6 +1,6 @@
 [package]
 name = "framix"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A simple yet powerful Rust-based video editor wrapper for FFmpeg"
 license = "MIT"
