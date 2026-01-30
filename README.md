@@ -18,7 +18,7 @@ A Rust-based command-line tool for basic video editing tasks, utilizing `ffmpeg`
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/PritamP20/framix
 cd video-editor
 cargo build --release
 ```
